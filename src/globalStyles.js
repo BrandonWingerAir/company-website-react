@@ -42,7 +42,7 @@ export const Heading = styled.h2`
     width: ${({ width }) => width ? width : '100%'};
 `;
 
-export const TextWrapper = styled.span`
+export const TextContainer = styled.span`
 	color: ${({ color }) => (color ? color : '')};
 	font-size: ${({ size }) => (size ? size : '')};
 	font-weight: ${({ weight }) => (weight ? weight : '')};
