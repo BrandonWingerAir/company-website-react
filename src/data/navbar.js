@@ -10,8 +10,8 @@ export const data = [
         id: 'pricing'
     },
     {
-        to: '/signup',
-        text: 'Signup',
-        id: 'signup'
+        to: '/contact',
+        text: 'Contact',
+        id: 'contact'
     }
 ];
