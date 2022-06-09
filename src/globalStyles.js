@@ -1,6 +1,6 @@
 import styled, { createGlobalStyle } from 'styled-components';
 
-const globalStyle = createGlobalStyle`
+const GlobalStyle = createGlobalStyle`
     * {
         box-sizing: border-box;
         margin: 0;
@@ -138,3 +138,5 @@ export const Button = styled.button`
         color: #212121;
     }
 `;
+
+export default GlobalStyle;
