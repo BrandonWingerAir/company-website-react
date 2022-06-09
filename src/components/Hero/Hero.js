@@ -23,7 +23,7 @@ const heroStyles = () => {
                 <Link to='signup'>
                     <Button>Get Started</Button>
                 </Link>
-                <HeroButton>Find More</HeroButton>
+                <HeroButton>Learn More</HeroButton>
             </ButtonWrapper>
         </Container>
     </HeroSection>
